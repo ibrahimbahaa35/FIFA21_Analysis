@@ -1,0 +1,683 @@
+﻿ClubID,Club
+1,FC Barcelona
+2,Juventus
+3,Atlético Madrid
+4,Manchester City
+5,Paris Saint-Germain
+6,FC Bayern München
+7,Liverpool
+8,Real Madrid
+9,Chelsea
+10,Tottenham Hotspur
+11,Inter
+12,Napoli
+13,Borussia Dortmund
+14,Manchester United
+15,Arsenal
+16,Lazio
+17,Leicester City
+18,Borussia Mönchengladbach
+19,Real Sociedad
+20,Atalanta
+21,Olympique Lyonnais
+22,Milan
+23,Villarreal CF
+24,RB Leipzig
+25,Cagliari
+26,Ajax
+27,SL Benfica
+28,AS Monaco
+29,Wolverhampton Wanderers
+30,Everton
+31,Fiorentina
+32,FC Porto
+33,RC Celta
+34,Torino
+35,Sevilla FC
+36,Grêmio
+37,Real Betis
+38,Roma
+39,Newcastle United
+40,Eintracht Frankfurt
+41,Valencia CF
+42,Medipol Başakşehir FK
+43,Inter Miami
+44,Bayer 04 Leverkusen
+45,Levante UD
+46,Crystal Palace
+47,Athletic Club de Bilbao
+48,Shanghai SIPG FC
+49,VfL Wolfsburg
+50,Guangzhou Evergrande Taobao FC
+51,Al Shabab
+52,Olympique de Marseille
+53,Los Angeles FC
+54,Beijing Sinobo Guoan FC
+55,Getafe CF
+56,SV Werder Bremen
+57,TSG 1899 Hoffenheim
+58,LOSC Lille
+59,Deportivo Alavés
+60,Burnley
+61,Leeds United
+62,Fulham
+63,PFC CSKA Moscow
+64,Genoa
+65,Galatasaray SK
+66,Atlanta United
+67,Atlético Mineiro
+68,Flamengo
+69,Palmeiras
+70,No Club
+71,São Paulo
+72,West Ham United
+73,SD Eibar
+74,River Plate
+75,OGC Nice
+76,Real Valladolid CF
+77,Sporting CP
+78,PSV
+79,Feyenoord
+80,Club Brugge KV
+81,Shakhtar Donetsk
+82,Vissel Kobe
+83,Boca Juniors
+84,1. FC Union Berlin
+85,Dalian YiFang FC
+86,AS Saint-Étienne
+87,Sassuolo
+88,Tigres U.A.N.L.
+89,Dinamo Zagreb
+90,Dynamo Kyiv
+91,Fluminense
+92,Udinese
+93,Aston Villa
+94,Stade Rennais FC
+95,Beşiktaş JK
+96,Brighton & Hove Albion
+97,Hebei China Fortune FC
+98,Southampton
+99,Lokomotiv Moscow
+100,Jiangsu Suning FC
+101,Al Hilal
+102,West Bromwich Albion
+103,Fenerbahçe SK
+104,FC Groningen
+105,Guangzhou R&F FC
+106,Orlando City SC
+107,Sampdoria
+108,Stade de Reims
+109,Sheffield United
+110,Santos
+111,Internacional
+112,Coritiba
+113,CA Osasuna
+114,LA Galaxy
+115,Al Nassr
+116,SC Freiburg
+117,SC Braga
+118,Olympiacos CFP
+119,Toronto FC
+120,Granada CF
+121,FC Schalke 04
+122,RC Strasbourg Alsace
+123,Hertha BSC
+124,AZ Alkmaar
+125,Seattle Sounders FC
+126,Montpellier HSC
+127,Shanghai Greenland Shenhua FC
+128,Hamburger SV
+129,Girona FC
+130,Racing Club
+131,Portland Timbers
+132,FC Girondins de Bordeaux
+133,Watford
+134,Estudiantes de La Plata
+135,Club América
+136,Vitória Guimarães
+137,SK Slavia Praha
+138,Trabzonspor
+139,RCD Espanyol
+140,FC Nantes
+141,Angers SCO
+142,Cruz Azul
+143,BSC Young Boys
+144,Club León
+145,Spartak Moscow
+146,Sivasspor
+147,Elche CF
+148,FC Augsburg
+149,Wuhan Zall
+150,Parma
+151,Royal Antwerp FC
+152,Monterrey
+153,San Lorenzo de Almagro
+154,AC Monza
+155,Club Atlético Lanús
+156,SD Huesca
+157,Derby County
+158,Kayserispor
+159,RSC Anderlecht
+160,CD Leganés
+161,Vélez Sarsfield
+162,Stade Brestois 29
+163,Tianjin TEDA FC
+164,Birmingham City
+165,Hellas Verona
+166,1. FC Köln
+167,Al Wehda
+168,Bournemouth
+169,Alanyaspor
+170,Bologna
+171,Amiens SC
+172,Celtic
+173,Shijiazhuang Ever Bright F.C.
+174,Club Atlas
+175,Al Ahli
+176,Norwich City
+177,Fatih Karagümrük S.K.
+178,Club Tijuana
+179,Universidad Católica
+180,Goiás
+181,Benevento
+182,Independiente
+183,Qingdao Huanghai F.C.
+184,Brentford
+185,AEK Athens
+186,Racing Club de Lens
+187,Olimpia Asunción
+188,Shenzhen FC
+189,Çaykur Rizespor
+190,KAA Gent
+191,New England Revolution
+192,Cádiz CF
+193,1. FSV Mainz 05
+194,Vasco da Gama
+195,FC Midtjylland
+196,Al Ain FC
+197,Santos Laguna
+198,SPAL
+199,Perth Glory
+200,FC Utrecht
+201,Montreal Impact
+202,UD Almería
+203,Fortaleza
+204,Spezia
+205,FC Basel 1893
+206,FC København
+207,Godoy Cruz
+208,Deportivo Toluca
+209,Nacional de Montevideo
+210,Aalborg BK
+211,Rio Ave FC
+212,FC Metz
+213,Chongqing Dangdai Lifan FC SWM Team
+214,Rosenborg BK
+215,FC Red Bull Salzburg
+216,Botafogo
+217,DSC Arminia Bielefeld
+218,Club Athletico Paranaense
+219,RCD Mallorca
+220,Pachuca
+221,Swansea City
+222,KRC Genk
+223,En Avant de Guingamp
+224,Lecce
+225,Nîmes Olympique
+226,Colo-Colo
+227,Stade Malherbe Caen
+228,Columbus Crew SC
+229,Junior FC
+230,VfB Stuttgart
+231,Moreirense FC
+232,Rangers FC
+233,Malmö FF
+234,Shandong Luneng TaiShan FC
+235,Sparta Praha
+236,Hatayspor
+237,Chicago Fire
+238,Toulouse Football Club
+239,FC Seoul
+240,Antalyaspor
+241,Deportivo Cali
+242,Kaizer Chiefs
+243,Real Zaragoza
+244,Atlético Clube Goianiense
+245,Puebla FC
+246,Fortuna Düsseldorf
+247,Western United FC
+248,Astra Giurgiu
+249,Henan Jianye FC
+250,Bahia
+251,Famalicão
+252,Atiker Konyaspor
+253,Peñarol
+254,DC United
+255,New York City FC
+256,Argentinos Juniors
+257,U.N.A.M.
+258,Minnesota United FC
+259,Nottingham Forest
+260,Independiente del Valle
+261,Defensa y Justicia
+262,Philadelphia Union
+263,Newell's Old Boys
+264,Rosario Central
+265,Atlético de San Luis
+266,FC Dallas
+267,Denizlispor
+268,Yeni Malatyaspor
+269,Club Atlético Colón
+270,Houston Dynamo
+271,Millwall
+272,Clube Sport Marítimo
+273,MKE Ankaragücü
+274,Guadalajara
+275,Boavista FC
+276,Sporting Kansas City
+277,Atlético Nacional
+278,CD Lugo
+279,New York Red Bulls
+280,PAOK
+281,SC Heerenveen
+282,Daegu FC
+283,Preston North End
+284,Damac FC
+285,Brescia
+286,VfL Bochum 1848
+287,Vancouver Whitecaps FC
+288,SV Sandhausen
+289,Royal Excel Mouscron
+290,Dijon FCO
+291,Molde FK
+292,Panathinaikos FC
+293,LASK Linz
+294,Ulsan Hyundai FC
+295,Real Salt Lake
+296,FC Luzern
+297,Viktoria Plzeň
+298,Orlando Pirates
+299,Al Ittihad
+300,1. FC Nürnberg
+301,Standard de Liège
+302,Rayo Vallecano
+303,Club Libertad
+304,Jeonbuk Hyundai Motors
+305,Western Sydney Wanderers
+306,Unión de Santa Fe
+307,FC Sion
+308,Sydney FC
+309,Hannover 96
+310,Real Sporting de Gijón
+311,FC Cincinnati
+312,ESTAC Troyes
+313,San Jose Earthquakes
+314,Club Guaraní
+315,FC Lorient
+316,Gençlerbirliği SK
+317,Sporting de Charleroi
+318,Wisła Kraków
+319,Al Taawoun
+320,Reading
+321,Gazişehir Gaziantep F.K.
+322,Blackburn Rovers
+323,Kashiwa Reysol
+324,FK Bodø/Glimt
+325,Willem II
+326,Vitesse
+327,Gil Vicente FC
+328,SønderjyskE
+329,Yokohama F. Marinos
+330,FC St. Gallen
+331,Club Atlético Aldosivi
+332,Göztepe SK
+333,Holstein Kiel
+334,FC Juárez
+335,FCSB (Steaua)
+336,Ettifaq FC
+337,KAS Eupen
+338,FC Tokyo
+339,Melbourne City FC
+340,Universitatea Craiova
+341,CD Tondela
+342,Wolfsberger AC
+343,Ceará Sporting Club
+344,River Plate Asunción
+345,Stoke City
+346,Paris FC
+347,IFK Norrköping
+348,Crotone
+349,Cardiff City
+350,América de Cali
+351,Al Faisaly
+352,Independiente Medellín
+353,Portimonense SC
+354,CD Tenerife
+355,Heracles Almelo
+356,Nashville SC
+357,SK Rapid Wien
+358,Kawasaki Frontale
+359,Club Necaxa
+360,Chievo Verona
+361,Lech Poznań
+362,AIK
+363,FK Austria Wien
+364,Querétaro
+365,1. FC Heidenheim 1846
+366,Legia Warszawa
+367,Club Atlético Banfield
+368,Os Belenenses
+369,Huddersfield Town
+370,KSV Cercle Brugge
+371,LDU Quito
+372,Gimnasia y Esgrima La Plata
+373,Gamba Osaka
+374,Middlesbrough
+375,Servette FC
+376,Empoli
+377,Real Oviedo
+378,Kasimpaşa SK
+379,CFR Cluj
+380,Millonarios FC
+381,FC Paços de Ferreira
+382,Sint-Truidense VV
+383,AD Alcorcón
+384,Colorado Rapids
+385,Dinamo Bucureşti
+386,Cerezo Osaka
+387,FC Emmen
+388,Sheffield Wednesday
+389,FC Erzgebirge Aue
+390,Raków Częstochowa
+391,Atlético Tucumán
+392,SV Darmstadt 98
+393,Bristol City
+394,Oud-Heverlee Leuven
+395,Barnsley
+396,Queens Park Rangers
+397,Sangju Sangmu FC
+398,Helsingborgs IF
+399,AC Ajaccio
+400,Oceânico FC
+401,Club Atlético Talleres
+402,Al Hazem
+403,SC Paderborn 07
+404,Club Atlético Huracán
+405,KV Kortrijk
+406,El Nacional
+407,Mazatlán FC
+408,Aberdeen
+409,CD Mirandés
+410,SV Zulte-Waregem
+411,Piast Gliwice
+412,Djurgårdens IF
+413,Central Córdoba
+414,Wellington Phoenix
+415,Deportivo Binacional
+416,Patronato
+417,SpVgg Greuther Fürth
+418,IFK Göteborg
+419,FC Cartagena
+420,Santa Clara
+421,FC Twente
+422,Farense
+423,ADO Den Haag
+424,AJ Auxerre
+425,Al Fateh
+426,Valenciennes FC
+427,Hokkaido Consadole Sapporo
+428,FC St. Pauli
+429,Albacete BP
+430,1. FC Kaiserslautern
+431,Al Fayha
+432,Incheon United FC
+433,KV Mechelen
+434,Pohang Steelers
+435,CD Nacional
+436,Unión La Calera
+437,BB Erzurumspor
+438,Kashima Antlers
+439,Arsenal de Sarandí
+440,HJK Helsinki
+441,Karlsruher SC
+442,Aarhus GF
+443,FC Zürich
+444,Barcelona Sporting Club
+445,SG Dynamo Dresden
+446,Sanfrecce Hiroshima
+447,Al Raed
+448,SD Ponferradina
+449,Brøndby IF
+450,Lechia Gdańsk
+451,FC Viitorul
+452,SK Sturm Graz
+453,IF Elfsborg
+454,Gangwon FC
+455,Melgar FBC
+456,Club Atlético Grau
+457,Jagiellonia Białystok
+458,Waasland-Beveren
+459,VfL Osnabrück
+460,Nagoya Grampus
+461,CF Fuenlabrada
+462,Shamrock Rovers
+463,Shimizu S-Pulse
+464,RKC Waalwijk
+465,Vålerenga Fotball
+466,Clermont Foot 63
+467,FC Ingolstadt 04
+468,FC Würzburger Kickers
+469,Górnik Zabrze
+470,Charlton Athletic
+471,Beerschot AC
+472,Coquimbo Unido
+473,Viktoria Köln
+474,Hull City
+475,Málaga CF
+476,FC Nordsjælland
+477,UD Las Palmas
+478,VVV-Venlo
+479,GwangJu FC
+480,Chamois Niortais Football Club
+481,FC Lugano
+482,Cusco FC
+483,Sparta Rotterdam
+484,Sol de América
+485,PEC Zwolle
+486,Pogoń Szczecin
+487,Doncaster Rovers
+488,Kristiansund BK
+489,Liverpool Fútbol Club
+490,Club Bolívar
+491,Urawa Red Diamonds
+492,SK Brann
+493,Eintracht Braunschweig
+494,Nacional Asunción
+495,Melbourne Victory
+496,Kilmarnock
+497,Dundalk
+498,SSV Jahn Regensburg
+499,Abha Club
+500,Club Atlético Tigre
+501,Suwon Samsung Bluewings
+502,Shonan Bellmare
+503,SD Aucas
+504,Emelec
+505,Fortuna Sittard
+506,La Berrichonne de Châteauroux
+507,Śląsk Wrocław
+508,Coventry City
+509,Sunderland
+510,Alianza Lima
+511,Hammarby IF
+512,Cracovia
+513,CE Sabadell FC
+514,Oita Trinita
+515,BK Häcken
+516,Luton Town
+517,Le Havre AC
+518,IK Sirius
+519,Zagłębie Lubin
+520,Grenoble Foot 38
+521,Macarthur FC
+522,Rodez Aveyron Football
+523,Vegalta Sendai
+524,Motherwell
+525,SV Wehen Wiesbaden
+526,Audax Italiano
+527,Gaz Metan Mediaş
+528,Portsmouth
+529,Hibernian
+530,Always Ready
+531,UD Logroñés
+532,FC Voluntari
+533,FC Hermannstadt
+534,AS Nancy Lorraine
+535,Rotherham United
+536,Fleetwood Town
+537,Jorge Wilstermann
+538,Odense Boldklub
+539,MSV Duisburg
+540,FC Sochaux-Montbéliard
+541,Milton Keynes Dons
+542,River Plate Montevideo
+543,Delfín SC
+544,Universidad Católica del Ecuador
+545,Deportivo Pasto
+546,KV Oostende
+547,Club Plaza Colonia
+548,Wigan Athletic
+549,FC Botoşani
+550,C.D. Castellón
+551,SCR Altach
+552,Örebro SK
+553,TSV Hartberg
+554,Stabæk Fotball
+555,Wycombe Wanderers
+556,St. Johnstone FC
+557,Oxford United
+558,Lincoln City
+559,Randers FC
+560,Viking FK
+561,FC Chambly Oise
+562,Dundee United
+563,Oriente Petrolero
+564,Odds BK
+565,Nacional Potosí
+566,Sepsi OSK
+567,FC Hansa Rostock
+568,Lyngby BK
+569,SpVgg Unterhaching
+570,Brisbane Roar
+571,Seongnam FC
+572,SV Ried
+573,CD Huachipato
+574,WSG Tirol
+575,Podbeskidzie Bielsko-Biała
+576,Peterborough United
+577,Club Blooming
+578,Wisła Płock
+579,Busan IPark
+580,FSV Zwickau
+581,Mjøndalen IF
+582,Vejle Boldklub
+583,Pau FC
+584,FC Lausanne-Sport
+585,Estudiantes de Mérida
+586,Sagan Tosu
+587,SV Waldhof Mannheim
+588,Sport Huancayo
+589,Hallescher FC
+590,Kalmar FF
+591,St. Mirren
+592,SKN St. Pölten
+593,Sarpsborg 08 FF
+594,Shrewsbury
+595,TSV 1860 München
+596,SV Meppen
+597,Ipswich Town
+598,IK Start
+599,Adelaide United
+600,Stal Mielec
+601,Centro Atlético Fénix
+602,Newcastle Jets
+603,Livingston FC
+604,AC Mineros de Guayana
+605,AFC Wimbledon
+606,Burton Albion
+607,Al Adalah
+608,Warta Poznań
+609,USL Dunkerque
+610,Bristol Rovers
+611,UTA Arad
+612,Östersunds FK
+613,Sportivo Luqueño
+614,Politehnica Iaşi
+615,Salford City
+616,Central Coast Mariners
+617,Caracas FC
+618,AC Horsens
+619,Plymouth Argyle
+620,Aalesunds FK
+621,Crewe Alexandra
+622,Chindia Târgovişte
+623,Oldham Athletic
+624,Yokohama FC
+625,Blackpool
+626,Northampton Town
+627,Bayern München II
+628,FK Haugesund
+629,KFC Uerdingen 05
+630,Forest Green Rovers
+631,Cheltenham Town
+632,Strømsgodset IF
+633,Mjällby AIF
+634,Exeter City
+635,Cambridge United
+636,Grimsby Town
+637,FC Vaduz
+638,Türkgücü München
+639,VfB Lübeck
+640,Bolton Wanderers
+641,Bradford City
+642,1. FC Magdeburg
+643,FC Admira Wacker Mödling
+644,Hamilton Academical FC
+645,Aragua FC
+646,Accrington Stanley
+647,Swindon Town
+648,Carlisle United
+649,FC Argeș
+650,Port Vale
+651,Academica Clinceni
+652,Rochdale
+653,Gillingham
+654,Tranmere Rovers
+655,Southend United
+656,1. FC Saarbrücken
+657,Colchester United
+658,Mansfield Town
+659,Falkenbergs FF
+660,SC Verl
+661,Varbergs BoIS
+662,Crawley Town
+663,Sandefjord Fotball
+664,Newport County
+665,Bohemian FC
+666,Ross County FC
+667,Scunthorpe United
+668,Morecambe
+669,Walsall
+670,Leyton Orient
+671,Stevenage
+672,Barrow
+673,Derry City
+674,Llaneros de Guanare
+675,Sligo Rovers
+676,Zamora FC
+677,St. Patrick's Athletic
+678,Cork City
+679,Shelbourne FC
+680,Harrogate Town
+681,Waterford FC
+682,Finn Harps
